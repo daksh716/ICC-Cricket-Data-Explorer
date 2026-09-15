@@ -1,4 +1,6 @@
-# ICC Cricket Data Explorer & Analytics
+# 🏏 ICC Cricket Data Explorer & Analytics
+
+[🚀 Live Demo](https://icc-cricket-data-explorer-csx7qbrpahcyxhrsddnp7q.streamlit.app/)
 
 An interactive cricket data analytics project built using Python, Pandas, NumPy and Streamlit.
 
